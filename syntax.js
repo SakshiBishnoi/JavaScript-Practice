@@ -49,6 +49,14 @@ console.log(bool);
 
 let  nullVar = null
 console.log(nullVar);
+console.log(typeof nullVar);
 
 let  undefVar;
 console.log(undefVar);
+console.log(typeof undefVar);
+
+let num3 = 5
+console.log(5/"navin");
+
+
+
