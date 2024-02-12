@@ -1,3 +1,7 @@
+let Obj = {};
+console.log(Obj); // {}
+
+
 let input = 'Modal';
 
 let car =  { Company : "Tata" , Modal : "Curve", Year : 2024 , Color : "Green" , 'Speed & Avergae' : 150 };
