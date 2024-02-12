@@ -9,3 +9,5 @@ console.log(car.Company, car.Modal, car.Color, car['Speed & Avergae']);
 //console.log(car.input);
 console.log(car[input]);
 
+console.log(car);
+
