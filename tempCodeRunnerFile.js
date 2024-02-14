@@ -1,6 +1,1 @@
-function getFastLaptop (Laptop1, Laptop2) {
-//     if(Laptop1.Processor < Laptop2.Processor)
-//         console.log(Laptop1);
-//     else
-//         console.log(Laptop2)
-// };
+let nums = [99, 44, 38, 66, 200];

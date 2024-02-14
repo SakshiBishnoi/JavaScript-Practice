@@ -7,3 +7,10 @@ nums.forEach((n,i,nums) => {
     console.log(`The square of ${n} is ${n*n}`); 
     console.log(`${i}  ${nums}`);
 })
+
+
+const people = ["Scooby", "Velma", "Daphne", "Shaggy", "Fred"]; 
+//people.forEach((p,i) => {console.log(p.toUpperCase,i)}); 
+
+for(let i=0;i<=people.length; i++)
+    console.log(people[i].toUpperCase());
