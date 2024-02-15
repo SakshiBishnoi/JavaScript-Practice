@@ -18,3 +18,10 @@ for (let key in Human){
  console.log(Human[key]);
 }
 
+
+for ( m of Object.values(Human.Male.age) ) {
+   total += m
+    console.log(m);
+    
+}
+    
