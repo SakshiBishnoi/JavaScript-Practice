@@ -12,3 +12,14 @@ console.log(`total of prices is ${total}`);
 // })
 
 // const total = price.reduce ((total, price) => total * price ); 
+
+let minPrice = prices.reduce( (total, price) => {
+    if(price < min)
+        return price;
+    else
+        return min;
+});
+
+
+const evens = [ 2, 4, 6, 8, 10];
+even.reduce((sum, num) => sum + num),100;
